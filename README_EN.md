@@ -190,10 +190,5 @@ MIT License © 2026
 
 ## 🙏 Acknowledgements
 
-- TOC structures referenced from three production automotive SORs (FDC215, E50MCE, S508)
+- TOC structures referenced from three production automotive SORs
 - Topology library and control strategies distilled from power-electronics textbooks and engineering practice
-- Powered by Anthropic Claude
-
----
-
-**Let AI be your power-electronics co-engineer 🚗⚡**
