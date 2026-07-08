@@ -188,9 +188,8 @@ MIT License © 2026
 
 ## 🙏 致谢
 
-- 参考了三份量产车规 SOR（FDC215、E50MCE、S508）的目录结构
+- 参考了多份量产车规 SOR的目录结构
 - 拓扑库与控制策略总结自《电力电子技术》《新能源汽车电力电子系统》等教材与工程实践
-- 感谢 Anthropic Claude 提供的强大 AI 能力
 
 ---
 
@@ -199,6 +198,3 @@ MIT License © 2026
 - GitHub Issues: [https://github.com/your-repo/power-electronics-spec/issues](https://github.com/your-repo/power-electronics-spec/issues)
 - 讨论/交流：欢迎在 Issues 中分享你的使用案例
 
----
-
-**让 AI 成为你的电力电子副工程师 🚗⚡**
